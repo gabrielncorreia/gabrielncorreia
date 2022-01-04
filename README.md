@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gabriel, futuro web dev!
+### Hi there! I'm Gabriel, future fullstack web developer!
 
 <div align="center">
   <a href="https://github.com/gncorreia">

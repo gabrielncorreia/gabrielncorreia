@@ -1,6 +1,6 @@
 ### Hi there! I'm Gabriel, future fullstack web developer!
 
-<div align="">
+<div align="" style="display: flex">
   <a href="https://github.com/gncorreia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gncorreia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gncorreia&layout=compact&langs_count=7&theme=dark"/>

@@ -1,9 +1,9 @@
 ### Hi there! I'm Gabriel, future fullstack web developer!
 
 <div align="" >
-  <a href="https://github.com/gncorreia">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gncorreia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gncorreia&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/gabrielncorreia">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielncorreia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielncorreia&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <br />
@@ -31,9 +31,9 @@
 
 #### How to reach me:
 <div>
-  <a href = "mailto:gncorreia@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gncorreia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:gabrielncorreia@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabrielncorreia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-<!--   ![Snake animation](https://github.com/gncorreia/gncorreia/blob/output/github-contribution-grid-snake.svg) -->
+<!--   ![Snake animation](https://github.com/gabrielncorreia/gabrielncorreia/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
